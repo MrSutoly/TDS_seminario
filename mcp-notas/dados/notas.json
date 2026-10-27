@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "titulo": "Reunião da equipe House Atreides",
+    "conteudo": "Ensaiar a demonstração na quinta-feira à tarde no laboratório.",
+    "criadaEm": "2026-10-20"
+  },
+  {
+    "id": 2,
+    "titulo": "Lista de compras",
+    "conteudo": "Café, pão, leite, ovos e um carregador novo para o notebook.",
+    "criadaEm": "2026-10-21"
+  },
+  {
+    "id": 3,
+    "titulo": "Ideias para o projeto final",
+    "conteudo": "Sistema de controle de estoque em TypeScript com banco SQLite. Pensar em integrar com MCP para consultar o estoque via IA.",
+    "criadaEm": "2026-10-22"
+  },
+  {
+    "id": 4,
+    "titulo": "Prova de Banco de Dados",
+    "conteudo": "Estudar normalização (1FN, 2FN, 3FN), joins e índices. A prova é na próxima semana.",
+    "criadaEm": "2026-10-23"
+  },
+  {
+    "id": 5,
+    "titulo": "Taylor Swift – Eras Tour setlist favorito",
+    "conteudo": "Minhas músicas favoritas da Eras Tour: All Too Well (10 min version), Anti-Hero, Love Story, Cruel Summer, Blank Space e Enchanted. O show durou mais de 3 horas e foi incrível.",
+    "criadaEm": "2026-10-24"
+  },
+  {
+    "id": 6,
+    "titulo": "Taylor Swift – Discografia em ordem",
+    "conteudo": "Taylor Swift (2006), Fearless (2008), Speak Now (2010), Red (2012), 1989 (2014), Reputation (2017), Lover (2019), Folklore (2020), Evermore (2020), Midnights (2022). Ainda preciso ouvir Tortured Poets Department com calma.",
+    "criadaEm": "2026-10-24"
+  },
+  {
+    "id": 7,
+    "titulo": "Taylor Swift – Letras que me marcaram",
+    "conteudo": "'Long story short, I survived.' (Evermore). 'I had the time of my life fighting dragons with you.' (Long Live). 'It's me, hi, I'm the problem, it's me.' (Anti-Hero). Essas letras são obras de arte.",
+    "criadaEm": "2026-10-25"
+  },
+  {
+    "id": 8,
+    "titulo": "The Office – Episódios para rever",
+    "conteudo": "Lista de episódios obrigatórios: Dinner Party (S4E9), Threat Level Midnight (S7E17), The Injury (S2E12), Casino Night (S2E22) e The Finale (S9E24-25). Michael Scott é o melhor personagem da história da TV.",
+    "criadaEm": "2026-10-24"
+  },
+  {
+    "id": 9,
+    "titulo": "The Office – Frases icônicas do Michael Scott",
+    "conteudo": "'That's what she said.' / 'I am the best boss.' / 'Would I rather be feared or loved? Both. I want people to be afraid of how much they love me.' / 'I'm not superstitious, but I am a little stitious.'",
+    "criadaEm": "2026-10-25"
+  },
+  {
+    "id": 10,
+    "titulo": "Friends – Ranking das temporadas",
+    "conteudo": "Meu ranking: T3 > T4 > T5 > T2 > T6 > T1 > T7 > T8 > T9 > T10. A fase Ross-Rachel no começo é imbatível. O episódio 'The One Where Everybody Finds Out' (T5) é o pico absoluto da série.",
+    "criadaEm": "2026-10-24"
+  },
+  {
+    "id": 11,
+    "titulo": "Friends – Curiosidades para o seminário",
+    "conteudo": "Friends durou 10 temporadas (1994–2004). Jennifer Aniston quase não aceitou o papel de Rachel. O apartamento das meninas seria impossível de pagar em NYC. O tema 'I'll Be There for You' foi feita pelos Rembrandts especialmente para a série.",
+    "criadaEm": "2026-10-25"
+  },
+  {
+    "id": 12,
+    "titulo": "The Big Bang Theory – Personagens favoritos",
+    "conteudo": "Sheldon é hilário mas Rajesh é o mais subestimado da série. Howard indo para o espaço foi um arco incrível. A entrada de Amy Farrah Fowler mudou o jogo. 'Bazinga!' nunca vai deixar de ser engraçado.",
+    "criadaEm": "2026-10-24"
+  },
+  {
+    "id": 13,
+    "titulo": "The Big Bang Theory – Melhor episódio",
+    "conteudo": "The Bath Item Gift Hypothesis (S2E11) é perfeito. Sheldon ganhando o autógrafo de Leonard Nimoy e dando um abraço em Penny é um dos momentos mais emocionantes da comédia americana.",
+    "criadaEm": "2026-10-25"
+  },
+  {
+    "id": 14,
+    "titulo": "How I Met Your Mother – A teoria do pineapple",
+    "conteudo": "Nunca soubemos de onde veio o abacaxi no episódio The Pineapple Incident (S1E10). A resposta foi revelada anos depois numa cena deletada: era do vizinho do quarto acima. Um mistério resolvido fora da série.",
+    "criadaEm": "2026-10-24"
+  },
+  {
+    "id": 15,
+    "titulo": "How I Met Your Mother – Final controverso",
+    "conteudo": "O finale de HIMYM ainda divide fãs. A mãe (Tracy McConnell) morre e Ted volta para Robin. Muitos acharam que invalidou 9 temporadas de desenvolvimento. Prefiro o finale alternativo que circula na internet, sem a morte da Tracy.",
+    "criadaEm": "2026-10-25"
+  },
+  {
+    "id": 16,
+    "titulo": "Taylor Swift e séries – conexões",
+    "conteudo": "Taylor Swift fez uma participação em CSI (2009). Ela também apareceu em New Girl. Curiosidade: a letra de 'Begin Again' tem clima de série romântica. Fãs fizeram edits perfeitos de HIMYM com músicas do Folklore.",
+    "criadaEm": "2026-10-26"
+  }
+]
